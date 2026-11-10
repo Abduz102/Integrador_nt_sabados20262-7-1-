@@ -14,13 +14,3 @@ python main.py
 <div align="center">
   <img src="https://i.pinimg.com/474x/cb/88/22/cb8822f88bcc48df046307a3d5163cd3.jpg" width="50%" />
 </div>
-
-
-
-REPORTES (graficas y conclusiones):
-
-python src/reporte_categorias.py
-python src/reporte_empresas.py
-python src/reporte_retos.py
-
-Leen los CSV limpios de data/limpio/ y guardan las graficas en reportes/.
