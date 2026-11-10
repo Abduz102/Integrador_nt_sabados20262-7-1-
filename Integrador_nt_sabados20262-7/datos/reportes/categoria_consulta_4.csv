@@ -1,0 +1,49 @@
+﻿area_responsable;nombre;cantidad
+Administración;Atención al Cliente;5
+Administración;Calidad;5
+Administración;Compras;5
+Administración;Finanzas;6
+Administración;Logística;6
+Administración;Marketing;2
+Administración;Producción;2
+Administración;Recursos Humanos;7
+Administración;Tecnología;6
+Administración;Ventas;13
+Comercial;Atención al Cliente;8
+Comercial;Calidad;8
+Comercial;Compras;6
+Comercial;Finanzas;3
+Comercial;Logística;2
+Comercial;Marketing;4
+Comercial;Producción;2
+Comercial;Recursos Humanos;4
+Comercial;Tecnología;5
+Comercial;Ventas;2
+IT;Atención al Cliente;5
+IT;Calidad;5
+IT;Compras;7
+IT;Finanzas;6
+IT;Logística;1
+IT;Marketing;9
+IT;Producción;4
+IT;Recursos Humanos;7
+IT;Tecnología;5
+IT;Ventas;5
+Operaciones;Atención al Cliente;7
+Operaciones;Calidad;6
+Operaciones;Compras;5
+Operaciones;Finanzas;6
+Operaciones;Logística;6
+Operaciones;Marketing;4
+Operaciones;Producción;3
+Operaciones;Recursos Humanos;3
+Operaciones;Tecnología;5
+Operaciones;Ventas;8
+Sin area;Calidad;1
+Sin area;Compras;5
+Sin area;Finanzas;1
+Sin area;Logística;3
+Sin area;Marketing;4
+Sin area;Producción;2
+Sin area;Recursos Humanos;3
+Sin area;Ventas;3

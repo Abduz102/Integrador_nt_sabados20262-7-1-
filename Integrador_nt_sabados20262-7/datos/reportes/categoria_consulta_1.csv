@@ -1,0 +1,34 @@
+﻿id;nombre;descripcion;area_responsable
+38093de0-4d67-432c-9814-c759f6eeac45;Ventas;Sin descripcion;Sin area
+29d24722-e523-49da-91b0-10bb2e9e129a;Ventas;Sin descripcion;Operaciones
+980b304a-7a95-46b9-ae2d-baf679b33e5d;Tecnología;Sin descripcion;Comercial
+c92b4d68-0a66-47e2-987f-1744382ff780;Atención al Cliente;Sin descripcion;Operaciones
+14c7adba-6a5a-4779-afc7-b51108317e41;Compras;Sin descripcion;Sin area
+879f3f75-e92e-4991-90ff-2a7553397d53;Tecnología;Sin descripcion;IT
+91d6d11f-804a-4d10-ac3e-ab38bb36085d;Atención al Cliente;Sin descripcion;IT
+b0cfe15b-0a5f-45d0-9017-a6f3ccbefdf7;Calidad;Sin descripcion;Sin area
+3b25a905-f5e2-4a5c-99ec-b78210c4580b;Marketing;Sin descripcion;IT
+6b8d8bba-8db2-4f64-80c3-59024aef7b25;Calidad;Sin descripcion;Operaciones
+91646aef-ebf4-420f-a72c-f638f1ba6633;Compras;Sin descripcion;Administración
+ac9073e7-557e-4d61-960d-856478928359;Calidad;Sin descripcion;Administración
+3df9898d-2e37-40e8-ba0d-ddbb29b2bd8d;Producción;Sin descripcion;IT
+cf56b995-5903-4597-acdf-b694f071ec6b;Recursos Humanos;Sin descripcion;Sin area
+51f1b0c8-c57c-435c-a18b-389e67d4e1ea;Ventas;Sin descripcion;Administración
+aa593f88-3669-4772-b405-cf1b9b88c24f;Marketing;Sin descripcion;Comercial
+f111f05a-8ba4-45e4-baee-a8f12f5b4dc8;Producción;Sin descripcion;Comercial
+00ed9862-f23d-47b2-a596-c588832de26c;Finanzas;Sin descripcion;Comercial
+317c1047-090d-482b-b311-d7cda2ac3136;Marketing;Sin descripcion;IT
+b4e73f4a-0f9b-4def-914a-47f5f9604555;Logística;Sin descripcion;Comercial
+7196db60-a1dd-469e-87f7-0993126163a0;Recursos Humanos;Sin descripcion;Operaciones
+e4adeb21-4ef2-4e58-8f71-64f5126f8cc1;Recursos Humanos;Sin descripcion;Administración
+539b2249-f2ee-4fac-b2db-03439d08b012;Marketing;Sin descripcion;IT
+1c6be319-02bd-4afb-a5ad-20c6362f10c6;Tecnología;Sin descripcion;Comercial
+5fe4d0d3-e61f-4418-84a9-e74fc0d6c242;Compras;Sin descripcion;Comercial
+ff2db5c4-49e3-4236-b0ff-40a06e2770a4;Finanzas;Sin descripcion;Administración
+143c3d76-895c-460a-8f87-680ef944fa43;Atención al Cliente;Sin descripcion;Operaciones
+4b6b627f-f73c-44a3-bfdf-60e6a7eaf22b;Calidad;Sin descripcion;Comercial
+9273f066-bef9-46d4-ae46-2cc70a70d7c6;Atención al Cliente;Sin descripcion;Operaciones
+3927e649-1d6e-434e-9ba4-7035d6ca015d;Producción;Sin descripcion;Administración
+44db5308-9d60-439c-ae6c-40b3dafb0507;Calidad;Sin descripcion;Operaciones
+e114e47d-7bed-435a-a0ab-097923c9ece6;Atención al Cliente;Sin descripcion;IT
+87f33657-6f17-488f-873d-8b5363ccdcc8;Producción;Sin descripcion;IT

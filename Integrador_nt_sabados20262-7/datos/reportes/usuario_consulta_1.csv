@@ -1,0 +1,204 @@
+﻿id;nombre;correo;rol;activo;fecha_registro
+dfbf72a5-05ca-4ef7-b5d2-c6007051ed3f;María Marcela Torres;buitragostiven@example.org;PARTICIPANTE;True;2024-12-02 15:28:00
+b22e47a1-0b8e-4a57-a818-a95ebc97f113;Lizeth Pérez;jherrera@example.org;ADMIN;True;2025-07-13 07:17:27
+003d881c-087e-4db7-af6b-97a52906be23;Liliana Gloria Herrera;mario78@example.org;ADMIN;True;2025-08-12 22:33:35
+e0c6180c-ffc8-4f5d-947b-a817d164c12f;Néstor Beltrán;carlos10@example.net;PARTICIPANTE;True;2025-06-08 19:41:16
+017037c3-61ca-42d7-ad2d-6ce0864c3e80;Hernando Carrillo;leoncarolina@example.net;ADMIN;True;2025-10-13 02:24:00
+b8915bc1-7ce9-4b5c-a602-b6a6fa81ed3e;Cristobal Bedoya;manuelbenitez@example.org;ADMIN;True;2024-12-02 21:02:34
+d183a824-8c64-4841-8491-731890e6a20a;Diego Andrés Barreto;fernanda76@example.net;ADMIN;True;2025-05-21 22:01:43
+b0738266-bd10-4e09-b3e9-a5831d4af419;Alicia Alba Cano Osorio;imorales@example.net;PARTICIPANTE;True;2026-05-15 12:17:13
+3cc130ad-9aa5-406a-ba53-d49ae85a687e;Alonso Ángel Patiño;carvajalfrancia@example.org;ADMIN;True;2026-08-13 07:36:00
+b28bb6fd-9239-4c2e-9905-632b4741975e;Edith Alejandra Sandoval Arias;ogonzalez@example.org;ADMIN;True;2026-01-13 04:13:22
+9c28c3a6-5255-4157-b8cd-e199a218979d;Elizabeth María Toro Martínez;espitiahumberto@example.org;EMPRESA;True;2025-05-31 20:24:24
+14e3bab6-f4d2-4aef-8004-197708f875eb;Jhoan Pérez Rodríguez;yortiz@example.com;PARTICIPANTE;True;2026-04-02 06:35:00
+14a2988c-644b-41b8-b22f-f9636a065b3c;Carlos Jesús Tamayo Murillo;canoluz@example.net;EMPRESA;True;2026-09-12 00:31:50
+16eb4dbd-5828-43d9-8a16-e82b341a752b;Miguel Oviedo;rodriguezantonio@example.net;PARTICIPANTE;True;2025-01-01 22:38:00
+108ed6e2-31a1-40f9-9c1e-5fdca9bf30ca;Johana Patricia Romero García;elianasanchez@example.net;PARTICIPANTE;True;2026-01-30 05:55:00
+414eb4ae-5e94-43be-8963-175b617a2a6c;Nelly Cortés;ricomarcela@example.org;ADMIN;True;2026-05-05 17:58:11
+eb726bfb-ebfb-4eca-a62e-cf8d85ae5262;Marcela Calderón Becerra;eduardomarquez@example.net;EMPRESA;True;2026-09-01 18:12:00
+4f8af83f-8753-49cc-bd53-acc98af8d742;Luz Salazar;maria52@example.net;ADMIN;True;2025-03-07 11:03:16
+7565e610-49d3-4c7d-b11b-96f2ba460c04;Adolfo Camilo Camacho;monicamesa@example.org;EMPRESA;True;2024-12-07 17:10:41
+9e1d78fe-de4a-4549-99d1-686745febdb7;Javier Palacios;samuel14@example.org;PARTICIPANTE;True;2026-10-28 21:24:00
+64bc29c0-c685-4f8c-a491-247cf3f76810;Luz Mejía;shirley81@example.com;PARTICIPANTE;True;2025-03-28 06:38:48
+490132aa-04d9-4e39-a4fc-3f5ca3e5877f;Sonia Rodríguez;;PARTICIPANTE;True;2026-02-07 15:08:00
+8f628bae-722e-4692-9e13-8a54e8cd8126;Miguel Óscar Rojas;yalzate@example.net;PARTICIPANTE;True;2025-01-10 08:52:17
+223c808d-a68b-4e6e-8362-aafe41997a42;Lorena Raquel Escobar;pzapata@example.org;ADMIN;True;2024-11-13 11:29:09
+ae2c3752-0255-47fc-881b-f49aeeebdd04;Daniel Germán Villa Castro;rpineda@example.com;ADMIN;True;2025-06-06 03:31:00
+d5ecefad-7dd4-4a87-8fc9-334dbd0392a3;William Vergara García;dhernandez@example.org;ADMIN;True;2025-08-13 08:32:38
+8bd05498-3b85-491e-80be-2a09e56f48e8;Alix González Rodríguez;carlos66@example.net;EMPRESA;True;2026-01-15 22:39:08
+0d9ec4f7-20d9-4dc8-8f5f-fa69029d09d6;Andrés Augusto Rodríguez;gpinto@example.com;ADMIN;True;2026-02-16 17:02:59
+91824e8c-a1ed-4ecb-8764-f6fef8ac59d8;Guillermo Óscar Ardila Paz;david87@example.com;ADMIN;True;2026-04-27 10:16:39
+ad5d0743-2a5b-44d9-ad53-c1c9c9042236;Alexander Vargas;castrogina@example.com;PARTICIPANTE;True;2026-03-12 12:38:11
+a21d412f-9cfc-4921-8c4d-c3eadee58577;Jaime Delgado;andreapinzon@example.com;PARTICIPANTE;True;2025-05-03 23:31:00
+67383ada-20c4-4622-a993-405cbe8767e8;Heriberto Roa;lorena24@example.org;PARTICIPANTE;True;2025-02-09 21:28:00
+7cb3586b-5ab6-4dc4-bc0a-09aea6feb770;Yurany Cortés;fernandogallego@example.org;PARTICIPANTE;True;2026-01-02 18:29:43
+f86c6d0b-b0d2-4f95-86c0-26b30bb9ca41;Eugenia Marcela García Moreno;sanchezmaribel@example.net;EMPRESA;True;2025-06-10 04:29:41
+96116cb7-2efa-4b7f-b9a0-bb84c32d32b0;Isabel Isabel Estrada García;;EMPRESA;True;2026-06-19 15:57:00
+3e5aa627-e57f-4659-886a-9bad16cba8b8;Óscar Correa;diego48@example.net;PARTICIPANTE;True;2025-01-07 04:32:41
+0c92fabf-8e08-4801-98bd-94ecbc97d772;Hilda Galvis;maria39@example.net;PARTICIPANTE;True;2026-11-09 14:18:00
+320ee5dd-43b5-447a-94a8-21bf679d3ff0;Eugenio Felipe Parra Ruiz;andradesofia@example.net;PARTICIPANTE;True;2026-03-08 10:22:00
+8e1f6c6f-becf-4e6a-bb64-51e7eca943b6;Camilo Juan Morales Tovar;nochoa@example.com;ADMIN;True;2026-09-18 01:47:00
+d65e22eb-906e-4805-b2d5-5ecb61742e29;Ángela Luz Roa;ssaavedra@example.net;EMPRESA;True;2025-09-08 22:27:15
+c041987d-236c-449c-b64a-780110d0d0a5;Steven Gutiérrez;fredy97@example.org;EMPRESA;True;2025-10-29 05:31:03
+d917c2b5-39fa-418b-8841-ff5ce78e7fd5;Jaime Ángel Cárdenas;gabriel39@example.com;ADMIN;True;2026-05-29 22:45:01
+8ded971a-6f4b-4580-98af-8329b82c9d07;Cecilia Ortega;qflorez@example.net;PARTICIPANTE;True;2025-11-06 06:08:00
+b832a968-4db4-46c0-9858-88e61f5f9e55;Adriana Hoyos Sánchez;qocampo@example.com;ADMIN;True;2025-08-26 18:45:00
+61cb0c84-dc60-4c8d-986b-ff6298859a14;Natalia Moreno;leider16@example.org;PARTICIPANTE;True;2026-04-07 14:33:00
+20f0188e-a81d-4075-b901-64175f47f6b9;Julián Alzate Pérez;leonnidia@example.net;ADMIN;True;2026-09-07 05:33:00
+66b2242f-c405-4f35-9b0f-5e8bb91cdb37;Yasmín Sarmiento;jaime39@example.com;ADMIN;True;2025-03-28 07:34:46
+91d9fe33-3316-4015-a3ee-1bcd9274515e;Pedro Camargo;antoniorenteria@example.net;ADMIN;True;2026-06-08 11:49:02
+b1bfc2d9-a4fe-4acc-86e7-bd5c5fefdf40;Nancy Ardila;chavezteresa@example.com;EMPRESA;True;2025-02-13 23:14:20
+6314be87-ddc5-43f6-ae0f-49099d2eb5bf;Sebastián Ronald Serrano;nestor74@example.net;PARTICIPANTE;True;2026-06-19 21:41:00
+211d5dc6-8b67-46a4-854f-aca15ce3b7e3;Yeferson Carlos Parada Estrada;zparada@example.net;PARTICIPANTE;True;2026-06-10 00:08:01
+b7b47228-957b-4fa2-9a0d-271f561cf92a;Marcela González;javier49@example.com;ADMIN;True;2026-09-27 07:01:00
+af4f8cc0-1d13-4770-a04a-59f37708cc65;Gladys Leidy Beltrán;albeiro31@example.net;PARTICIPANTE;True;2026-09-04 17:13:00
+d39813ea-10d1-4739-9398-faf565bb0939;Augusto González;monroyangie@example.com;ADMIN;True;2025-04-29 22:40:00
+745191bb-36b1-4633-ba05-69c1ca4aaece;Mario Saúl Castro Barrios;raquelquiroga@example.com;ADMIN;True;2026-03-25 07:17:00
+612d7551-43c2-4bbe-adf8-ddf34a926c6b;Helena Vargas;fabianrojas@example.net;ADMIN;True;2025-04-16 04:13:56
+c5c5f256-5dbd-4f98-97d4-3d49bf4fca3b;Leidy Ligia Molina;cardenasines@example.net;EMPRESA;True;2026-06-04 13:26:12
+803967f6-a8ca-469c-8d63-15708251d976;Miguel Alfonso;molanoedgar@example.com;ADMIN;True;2025-11-02 13:26:00
+2c933f1a-b2f4-4185-babe-3f6b271e2225;Edgardo Santiago Ortega;roaandrea@example.org;PARTICIPANTE;True;2025-08-08 15:20:34
+1aca7a03-f69f-455c-a7cf-4b9a45a06fee;Yaneth Orozco Londoño;;PARTICIPANTE;True;2025-09-14 09:00:00
+ee9b861f-2167-4f6f-a312-f37f1666659a;Angie Navarro;maria44@example.com;ADMIN;True;2025-03-21 22:35:31
+50d7a9db-e51e-4be0-8df0-810692f98e2f;Amparo Castillo Sánchez;lopezandres@example.com;ADMIN;True;2025-07-16 10:42:00
+5102c716-3fcf-4b95-9c2f-d66298109532;Enrique Rodríguez;ydiaz@example.net;EMPRESA;True;2025-11-09 20:38:00
+10f3c18d-b86d-4225-b99f-2ad72b1dcc00;Jorge Parra Paz;franciscobeltran@example.net;PARTICIPANTE;True;2025-01-12 19:19:39
+da87e61f-3c5a-40fc-b3a9-0222c225a38a;Paola Elizabeth Silva;vpolo@example.com;ADMIN;True;2026-06-01 13:23:50
+43a6e3f5-8147-41f4-bd6b-555331e4865a;Rocío Luz Palacios;;ADMIN;True;2025-04-02 12:45:00
+118412a3-1cd0-496c-8a38-70ebbe3b56ac;Lorena Arrieta;angelicaacosta@example.org;ADMIN;True;2025-10-04 12:37:00
+76654c8c-b1fa-4305-96b5-2f2e20fb22d8;Salvador Andrés Jaimes;vargasfrancy@example.com;EMPRESA;True;2026-01-28 21:05:33
+786d836c-5a32-4894-8611-4af99af50bdf;Paula Laura Morales;natalia35@example.com;ADMIN;True;2026-11-09 21:23:13
+7fdbc792-92c1-4c8b-9106-06df7b92c4e2;María Meza López;durangerman@example.net;EMPRESA;True;2025-08-11 14:44:56
+5c1c8822-8e0f-4ef2-af53-19d7d465d1b6;Andrea Aguirre Pineda;oscargomez@example.com;ADMIN;True;2025-05-01 22:32:32
+1f5891fb-dae0-4d2f-97a9-cd5aee92bf99;Miguel Jorge Flórez Silva;victormeneses@example.org;ADMIN;True;2024-12-17 13:04:05
+bb8f97b7-9fd6-4a58-9881-860ab2d4a822;Luis Vallejo Ayala;;PARTICIPANTE;True;2025-04-30 15:49:00
+bf57c388-49f5-49a0-b5ac-06395d99ccf4;Liliana María Granados;;ADMIN;True;2025-10-20 13:07:48
+afc18b1d-f931-4cc0-8450-5b28b2285942;Lizeth Correa Garzón;rodriguezfernanda@example.org;ADMIN;True;2026-04-24 15:48:00
+68c355ab-4327-4c4d-9bf0-e61e97010f6b;Luis Gutiérrez Suárez;morenofernando@example.net;PARTICIPANTE;True;2025-01-29 09:47:03
+e82ad683-a288-416f-8826-57315f051e5d;Orlando José Molina Vargas;margaritarodriguez@example.com;PARTICIPANTE;True;2025-09-09 17:20:00
+c1a2df01-2819-403a-8efe-84a4b3fef47d;Lina Gloria Posada;giraldoheidy@example.net;EMPRESA;True;2025-08-09 02:50:00
+641637f0-3dbb-44d8-a900-3b44b4931f09;Gloria Martínez;felipemendez@example.net;PARTICIPANTE;True;2025-07-10 07:50:00
+25294950-880f-49cf-b5e4-ead42c39a3f7;Gloria Quintero;alvaroduque@example.net;PARTICIPANTE;True;2025-03-22 13:53:14
+f5cb8e54-3272-407d-83db-3fb0f8160b83;María Guevara Cruz;alejandra30@example.com;PARTICIPANTE;True;2025-11-20 21:44:00
+2672ee9e-ecd6-41d8-a83a-db09bc4c328f;Alfredo Lara Giraldo;;EMPRESA;True;2025-01-08 18:34:56
+d609cb78-29a6-4f16-a255-d70b0e37e493;Mary Adriana Molina;felixsanchez@example.net;EMPRESA;True;2025-09-25 12:06:45
+c322d977-5834-4205-8bef-8cdd4971274b;Ronald González Guevara;nrojas@example.com;ADMIN;True;2026-11-08 21:45:30
+df8fd61e-ee6d-48e4-a8bc-23697549cd55;Luz Jennifer Cárdenas Burbano;zbolivar@example.net;EMPRESA;True;2026-10-31 02:25:00
+4bd6c252-8db6-4004-802f-6549dcd8c015;Guillermo Iván Gutiérrez;hernando25@example.net;ADMIN;True;2026-10-30 01:08:52
+25b70b90-92e1-4585-aa9a-c225ae19a5c4;Felipe Rafael Hernández Salcedo;sebastianhernandez@example.net;ADMIN;True;2024-12-19 21:44:54
+04f58826-9f71-45c7-b7ba-822ee9872998;Edwin Gómez Campo;jorge47@example.org;PARTICIPANTE;True;2026-03-24 19:12:27
+dd2dd9ae-d42f-49ef-aa52-db14c88a69c2;Arturo Ramiro Bastidas;rafaelmolina@example.org;PARTICIPANTE;True;2025-10-16 04:15:00
+5c8c1afe-bc2f-4155-9971-924ca2186036;Silvia Saavedra Camargo;cristiansierra@example.net;ADMIN;True;2026-08-13 13:48:00
+13a2ca9d-a71a-470f-bbed-facb43faa2c1;José Esneider Mora Parada;juanmartinez@example.com;PARTICIPANTE;True;2026-08-15 23:01:00
+abcb24e4-a713-4a1b-845f-5f61e70bc20a;Rosa Isabel Giraldo Cardona;augusto99@example.org;PARTICIPANTE;True;2025-01-19 01:15:01
+084c7efa-c42c-4e18-afaa-1d0b155f2633;Emilse Margarita Bautista;hurtadomonica@example.net;EMPRESA;True;2026-05-30 09:34:37
+d03743b4-d768-4357-9d99-5b8d2114adce;Diana Inés Guerrero;abarrios@example.net;EMPRESA;True;2026-09-12 20:24:30
+ab682766-d752-4b67-aaac-2671da64edac;José Pedraza;herreravanesa@example.com;PARTICIPANTE;True;2025-04-14 17:47:00
+53437052-36fc-4d23-918a-67dfc49a8a6e;Didier Vélez;sandramena@example.org;ADMIN;True;2026-03-13 17:29:00
+c1e88943-6ff0-4ad3-9936-6c564c70b706;Yolanda María Peña Becerra;duartemarcela@example.net;PARTICIPANTE;True;2025-03-04 19:13:26
+3655f811-77a4-4327-953a-ee48a3a7d145;Jairo Alberto Alfonso Ruiz;gamboaandrea@example.net;PARTICIPANTE;True;2026-05-03 00:34:28
+06416d1e-0ca7-44d7-b831-2b48b835e9cc;Tania Pérez;oswaldogomez@example.com;EMPRESA;True;2025-03-25 12:36:10
+92ac91a9-9cbd-42c3-ab64-c7e1c57a7f27;Duván Rodríguez;chaparromary@example.com;EMPRESA;True;2025-12-11 07:09:00
+0076a280-e980-4a12-ae6c-c39e8367feba;Johan Julián Uribe;davidhenao@example.com;EMPRESA;True;2025-11-20 19:55:48
+43385473-339d-46b8-91f5-b40f6a96d24d;Alejandra Luz Bejarano;pvalencia@example.org;EMPRESA;True;2025-04-30 11:19:20
+f70175ef-6072-4617-97b6-62764f2c16bc;Edgardo Suárez;munozclara@example.org;PARTICIPANTE;True;2025-02-03 18:56:00
+4937a2ee-ddd7-40a2-be1d-f8c9beec12cb;Carlos Duque;eduardo45@example.net;PARTICIPANTE;True;2026-10-09 18:15:44
+75c0fa3b-6169-41b9-9c1c-4d87b06aa099;Lina Lina Morales;martinezluis@example.net;PARTICIPANTE;True;2025-12-06 10:44:42
+348a5f36-a524-4ead-bbe8-1d654f04fdb9;Claudia Guzmán González;oscarreyes@example.net;ADMIN;True;2024-12-20 01:39:00
+2e9a0eb1-5786-4273-bf5e-77711ab8bb89;Alicia Escobar;salazardiego@example.net;ADMIN;True;2026-09-23 02:56:02
+3ff67b30-8697-4d7f-b0fe-8b2a538f8086;Daniel Alarcón Rivera;carrilloalexander@example.net;EMPRESA;True;2026-07-30 20:24:30
+7feb68ee-50cd-4c82-a30f-0fb555f26bfd;Andrea Alba Contreras;fredytovar@example.com;EMPRESA;True;2026-04-18 17:05:00
+de70dce5-b348-4367-ba8a-14eca2177a33;Sebastián Bravo Vargas;lucia31@example.org;PARTICIPANTE;True;2025-09-11 16:12:06
+77114814-840c-41a1-8a39-b2bb71019d09;Paola Martínez;marinjavier@example.org;EMPRESA;True;2024-12-11 17:48:50
+3563eb90-3d88-4f04-8180-c985b19c4eed;David Alberto Alvarado Martínez;cristina95@example.net;EMPRESA;True;2026-03-15 16:47:00
+2400ada4-812f-4083-8470-e99a517d9247;Eduardo Gallego;;ADMIN;True;2025-02-22 20:58:57
+098ccf5b-d52c-40ad-a908-1362b666ec30;René Julio Bolaños Velásquez;yuliethmunoz@example.com;ADMIN;True;2026-09-14 02:18:00
+b3d75ec1-c69f-4c2c-865f-e6ff25d8692e;Daniela Edilma Quintero Yepes;rojasliliana@example.net;EMPRESA;True;2026-11-09 14:17:36
+e7dda7c1-abed-4e09-ac86-984ac82f6b0c;Diana Torres Jaramillo;melbahoyos@example.net;ADMIN;True;2026-05-21 01:08:00
+52eb9f94-1fdb-4925-9784-7ea701fbbe2e;Horacio Armando Rincón Pérez;carolina87@example.org;EMPRESA;True;2025-12-10 10:45:00
+3ae20a99-9783-45a7-8bb6-5f455f2039bd;María Ana Torres Cárdenas;garzonenrique@example.net;ADMIN;True;2026-03-06 00:32:00
+62704d55-99c3-467a-b0e1-e7a0d19f299d;Yesid García;pcruz@example.net;EMPRESA;True;2026-03-24 02:33:00
+d0f1cbbd-4de9-452c-8791-448cace374c3;Teresa Yolima Ochoa;parraleonor@example.com;EMPRESA;True;2024-11-16 07:57:00
+45320659-fbfe-432c-bde0-361ca7b69959;María Meza Franco;carlos18@example.org;EMPRESA;True;2026-08-29 18:57:42
+695a0f86-18cf-4356-9da7-c92d865fe300;Octavio Suárez Ospina;ibuitrago@example.com;ADMIN;True;2026-05-03 19:08:00
+5092056d-cec6-42c0-ac72-a30eba3d7480;Alexander González Rodríguez;hilda41@example.org;PARTICIPANTE;True;2025-09-20 06:00:10
+744c28e4-397a-4fa9-ac18-e1e0b0978401;Manuel Montenegro Ramírez;manuelcaicedo@example.net;PARTICIPANTE;True;2026-04-10 21:01:41
+f9ca1949-18da-4203-a6f1-d7bfedb2790b;Ángel Mercado Mosquera;gonzalezesther@example.net;PARTICIPANTE;True;2026-02-25 01:10:03
+7e03cdb2-694a-4fd6-bcb0-1e5fad3bdc99;Rocío Beatriz Murillo Córdoba;darias@example.net;EMPRESA;True;2025-11-10 00:12:10
+a5f92537-2e96-43c7-8cf6-750af6464ec9;Dayana Rojas;escobarfrancisco@example.net;EMPRESA;True;2025-07-05 13:17:00
+f1b5e861-a416-4474-88b9-46c60383187c;Mario Eliecer Rueda Jiménez;sandovaleugenia@example.org;PARTICIPANTE;True;2025-03-23 03:19:32
+149f96c4-991f-4e2f-bf7f-a5950fa007d9;Rocío Guerrero Hernández;fsalazar@example.net;PARTICIPANTE;True;2026-09-11 20:33:58
+42dca870-956b-49f3-a4cf-3976819fb0e7;Julia Sindy Mora Zapata;cguerrero@example.com;ADMIN;True;2025-12-27 10:33:35
+ad733587-a39c-40d1-80cc-8ecbbb9b05dd;Marcela Luisa Arroyo;ochoamayra@example.org;ADMIN;True;2025-01-23 05:47:00
+c16df7f3-7017-4400-b8bc-c43a182cac1f;Milena Adiela Cardona Romero;mendozaovidio@example.org;ADMIN;True;2026-05-02 05:45:00
+f70796bc-3dba-47ae-bf34-36191393d727;Ramiro Ricardo Osorio;julianaguilar@example.org;ADMIN;True;2025-12-03 05:58:00
+bc35eefe-e57c-4b5e-81d8-2cd1265e1343;Cecilia Rueda Gutiérrez;joaquin81@example.org;EMPRESA;True;2026-06-06 08:38:06
+cf9179c4-af13-4491-a369-38882f61bead;Mauricio Escobar Ortiz;erivera@example.net;PARTICIPANTE;True;2026-05-25 01:59:10
+0999fb24-045f-4830-86ca-f1396675c1c6;Fernando Néstor Quintero Escobar;rmesa@example.org;ADMIN;True;2026-02-09 20:09:20
+8709261d-f69b-4929-a93a-c0ab185feb33;José Cristhian Sánchez Cruz;sramirez@example.org;PARTICIPANTE;True;2025-06-17 22:26:17
+fa7a1012-3bdb-4073-b314-e3817e734164;Fernanda María López Rojas;hernandezlorena@example.net;ADMIN;True;2024-11-15 07:37:00
+885bf09a-cb28-42c8-855c-29d666db09e6;Manuel Jesús Flórez;jorgebuitrago@example.org;ADMIN;True;2024-11-15 14:51:00
+67f3a392-8b6c-49d0-9e43-e73aadedc218;Cristian Stiven Camargo;aliciazambrano@example.com;PARTICIPANTE;True;2025-02-03 15:59:26
+14dcffb8-7eea-42e8-8e57-b6e24a0b857a;Alexandra Luz Sandoval;diazricardo@example.org;PARTICIPANTE;True;2024-12-29 18:39:00
+460210c4-ae6a-4ff0-b4ac-3c1f05b83d86;Milton Sergio Álvarez García;;ADMIN;True;2025-06-19 10:16:00
+8d00f993-2a23-4c29-aab2-d733f020320b;Martha Romero;angaritamaria@example.net;PARTICIPANTE;True;2026-05-02 13:59:00
+e7f33ad7-c7be-4559-99ad-b84fdbdc7135;Luis Contreras;mireyasalamanca@example.org;PARTICIPANTE;True;2025-01-16 09:10:31
+fbec08a2-dbf2-487e-afa9-a744d95c536b;Diego Sebastián Alfonso;;EMPRESA;True;2026-06-22 08:40:00
+31fc2407-f597-4790-a204-ba5f3ce63736;Jhon Andrés Jiménez;mariaparra@example.com;EMPRESA;True;2025-12-16 06:43:56
+d3373e0f-7e66-45eb-aac9-9320b175a13d;Santiago Eder García;gerardo10@example.org;EMPRESA;True;2026-02-24 07:24:32
+98225215-8068-4863-9a95-b5f804600118;Paula Tatiana Nieto Acosta;castromarcela@example.org;PARTICIPANTE;True;2026-06-14 18:22:06
+2d855fc0-5f57-49ac-8671-0fe88735e52c;Valentina Yenny Rosero Villamil;carol75@example.net;EMPRESA;True;2025-08-20 03:11:27
+5e2f9c96-24de-48a6-9ce1-1bb3428bfa92;Luz Hoyos Ortiz;cabreramarlon@example.net;EMPRESA;True;2026-06-14 21:44:51
+b8d14a44-47d4-4de8-87a4-98d34c7b953e;María Moreno;mariaacosta@example.com;PARTICIPANTE;True;2025-04-05 14:15:13
+56a70b4b-2776-4fc7-89e5-9cb9bd2de19f;Carolina Díaz Arenas;luz29@example.net;EMPRESA;True;2026-05-29 02:05:55
+9b58a611-c93d-4104-91fc-e6b74ba10c2e;Domingo Eduardo Valderrama;vorozco@example.com;PARTICIPANTE;True;2026-10-23 06:35:52
+34345df4-5943-426d-b7dc-467b65b1a35d;Johan Salamanca Bernal;camilolondono@example.net;EMPRESA;True;2025-04-21 11:57:52
+51758f05-9c7d-476b-988c-88c2f5f0a0ea;Carolina Cecilia Acevedo Corredor;liseth43@example.org;ADMIN;True;2025-07-23 10:44:00
+5733292b-cd70-4c01-8d65-59d1cf3198a3;Luis Acosta Alvarado;ceciliagarcia@example.org;EMPRESA;True;2025-06-30 05:52:07
+fd89e31b-3129-4591-bf41-b9e65bd16359;Andrés Bravo Pineda;bramirez@example.org;EMPRESA;True;2025-06-10 14:10:31
+0dc77275-e966-4299-9751-1ca95ace59d7;Leidy Luz Serna;;EMPRESA;True;2025-12-11 21:37:00
+03944e08-c93e-449f-b795-8ae62edaea66;Rosa Flórez Díaz;;PARTICIPANTE;True;2025-12-26 14:22:00
+257d8c91-6703-42ea-a877-55a444c00417;Leonor Soto García;mario69@example.org;EMPRESA;True;2026-07-16 14:43:00
+d86c40e0-e2b0-4f97-ad3d-de82558a8bcf;Joel Pacheco Rubio;;PARTICIPANTE;True;2025-12-31 16:37:00
+7258811a-b5bf-4b0a-8237-23c66549d59b;Luz Uribe Pérez;millermontes@example.org;PARTICIPANTE;True;2025-01-05 16:11:46
+a9bf4fb6-13f2-4e14-90ee-e200d17eac2f;Alberto Pinto Sánchez;;ADMIN;True;2025-12-17 16:37:33
+b69b03be-6dd1-47ad-a365-9cabd83a705f;Rafael Alarcón;mesaantonio@example.net;ADMIN;True;2025-01-30 14:54:11
+dc416356-5cdf-4ec4-a81c-6b271eefd194;Patricia Fernández Uribe;velandialuis@example.org;PARTICIPANTE;True;2026-08-05 02:26:00
+59b4e84e-2907-43d3-940b-dffec36a1c49;Samuel Fernando Hoyos;rgomez@example.com;ADMIN;True;2026-01-28 00:55:00
+52406bd0-8fa3-462f-bf83-4bed702c8660;José Naranjo Quintero;luzortega@example.com;EMPRESA;True;2024-11-24 04:59:24
+3d7f9cd7-1e4f-4430-89d0-6a4d152339b5;Jesús Benítez;cardozoangela@example.com;PARTICIPANTE;True;2025-09-29 02:40:46
+fc82a9f4-5dae-4ea7-8f3e-06b5c6e914a5;Steven Rafael Pérez;camilo62@example.net;EMPRESA;True;2024-11-30 13:46:00
+dbdb51c7-92c3-4f5c-9658-012571ee9d12;Francy Diana Martínez Gómez;pradadiego@example.com;PARTICIPANTE;True;2025-10-14 12:43:00
+9ba3d9f4-be2e-4d8c-8ca5-f9ffadae9aa3;Yuliana Muñoz Serrano;gutierrezximena@example.org;ADMIN;True;2026-06-02 01:53:00
+1d37ed82-7674-45e5-beb5-480624f18012;Karen Rodríguez Muñoz;alejandro46@example.com;EMPRESA;True;2025-10-10 17:12:35
+61aa217f-23d9-4aba-82c8-a6a6009f17e3;Cristina Ruth Bravo Medina;rodriguezduban@example.com;ADMIN;True;2026-01-17 04:00:43
+9e59a656-9828-4a25-bc0f-71bcd433cbe2;Juan Delgado;;PARTICIPANTE;True;2025-06-30 21:06:02
+e5b3a868-b147-42aa-9026-efa45793482f;Consuelo Hoyos Bolívar;;PARTICIPANTE;True;2026-04-10 15:48:00
+346b941a-f4a3-4de4-9abc-0d04acb9bde9;Carolina Adela Santos Ospino;valentinabecerra@example.org;EMPRESA;True;2026-02-13 09:14:00
+262971f6-75df-4582-8848-be350f727761;Rolando Gregorio Tovar;mariarodriguez@example.net;PARTICIPANTE;True;2026-03-31 00:49:11
+09450d5f-bd8f-4730-9be7-761323e47e2f;Alexander Luis Mora;claudia04@example.com;EMPRESA;True;2025-11-24 11:43:00
+3ac58020-c9ab-4ff3-aca5-eb21b3be42ee;Álvaro Durán Ortiz;yulianaburbano@example.net;EMPRESA;True;2025-02-03 10:20:00
+9c096c98-dc01-4da3-98c7-ec191a6f0b78;Edward Santiago Ramos Moreno;;EMPRESA;True;2025-02-26 09:00:23
+8067aedc-c07c-44b1-8f1b-f4350bfc8365;Xiomara Melo Mosquera;jennifer11@example.org;EMPRESA;True;2025-02-18 12:32:30
+59ef1122-8253-4def-8f8f-b2c4d146abb0;Carlos Niño Galindo;rodriguezoswaldo@example.net;PARTICIPANTE;True;2026-07-24 16:52:23
+feda489a-9add-4a17-b2f4-db01495d6ea5;María Rincón Moreno;luz38@example.net;PARTICIPANTE;True;2026-06-29 07:20:23
+ef92f547-d0f4-4a1f-a071-a36720944f4e;Ángela Yenny Cardona;hcardona@example.com;ADMIN;True;2024-11-22 09:47:00
+979183af-2172-4795-8f32-40b1a9819751;Teresa Ángela Herrera Luna;santiagoquintero@example.net;EMPRESA;True;2026-04-16 22:22:55
+5f7e8e6b-cb96-47e3-9b7d-3e5df69d1aa8;Luz Jennifer Rojas Luna;oscargonzalez@example.com;EMPRESA;True;2026-02-14 23:56:00
+4e486738-782b-4299-8e95-dd43ff681195;César Eduardo Gonzáles;esperanzacorredor@example.com;PARTICIPANTE;True;2025-02-14 20:29:16
+f6f8455c-d6c0-486e-94b5-ac67025c7af8;David Páez Vera;jhon06@example.com;EMPRESA;True;2026-06-08 03:04:11
+08c2cea1-747e-46b3-b817-f58a04596cab;Joel Andrés Sarmiento;;ADMIN;True;2026-09-06 06:01:00
+d142dfa7-39cf-485d-83ee-d8cf990105ea;Henry Iván Agudelo;;EMPRESA;True;2026-10-13 11:55:51
+2ee5d9e7-6a10-45e9-b6c8-758721550d34;Liliana Fernanda Velásquez;ceciliasanabria@example.org;PARTICIPANTE;True;2026-04-11 20:12:00
+577b0504-e493-4fba-bfab-8a6400643510;María Oviedo Hurtado;jackeline98@example.com;ADMIN;True;2026-04-10 09:00:37
+49145cb8-11bc-4740-b8c0-3f36859db32b;Antonio Armando Prada Vargas;carrilloangelica@example.org;ADMIN;True;2025-12-09 01:27:29
+621a5107-91aa-4d09-9f80-bf4668686e81;José Delgado;jose87@example.com;EMPRESA;True;2026-08-27 14:31:08
+e27762aa-a344-4ef2-bf0a-de2151dc3be3;Cecilia María López Domínguez;pinedalaura@example.net;EMPRESA;True;2026-08-03 06:10:48
+3b09bdc3-423b-4c98-8b22-114f0f959bd6;Gerardo Rojas Salcedo;ejaimes@example.net;EMPRESA;True;2024-11-26 18:42:07
+45dd494e-d6bc-4ab7-8aeb-e8fc4851c0f3;José Andrés Díaz;;PARTICIPANTE;True;2025-10-04 23:11:43
+9624208a-da83-4afc-8738-51bc21162d93;Óscar Rodríguez Sandoval;bedoyadavid@example.net;EMPRESA;True;2026-04-05 09:48:15
+50b6331f-0c26-4610-b809-879299910da9;Carlos David Cano Bautista;;PARTICIPANTE;True;2026-10-15 14:35:58
+1771f6ab-1969-4068-aa48-18ad1ad01e6b;Lucía Katherine Rentería;laura82@example.org;ADMIN;True;2026-02-03 01:12:00
+9531bee0-cddc-4b9d-81fc-c96d630460e0;Rubén Agustín Pérez;esther36@example.com;ADMIN;True;2025-02-15 12:51:00
+b0b3944f-368f-4742-a478-a33ed0c4a721;Cindy Ramírez Ardila;padillastiven@example.net;ADMIN;True;2026-06-26 01:08:00
+42af319f-6aff-45da-ab87-d33b9a02fb3f;Cindy Elizabeth Zuluaga Hernández;medinajose@example.net;ADMIN;True;2026-10-14 14:40:00

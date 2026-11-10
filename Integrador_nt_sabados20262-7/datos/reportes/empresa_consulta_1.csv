@@ -1,0 +1,136 @@
+﻿id;nombre;nit;sector;contacto;correo;telefono;activa
+a55fafa7-f4ad-4932-9738-f71edeba1d99;Uribe, González and Moreno;6391025743;Medios de Comunicación;;vmena@example.org;3050864035;True
+e7e652cd-8e95-4c23-8c36-f34e46805b62;Salazar Plc;3449734715;Salud;Eduardo Ortega Salazar;yochoa@example.com;6039661498;True
+f84e8e81-85a5-43ce-8228-bb97745e57f2;Montenegro-Pérez;6458750663;Energía;Daniela Miryam Morales Toro;benavidesjorge@example.com;3224399201;True
+edcc2330-4271-430e-8f0f-e148c2f122c2;Franco Group;6918362644;Salud;William Ardila Gallego;gonzalezcarlos@example.com;6081436402;True
+71285421-c33b-4079-93f6-e19ba2df3997;Rivera Llc;1509377100;Medios de Comunicación;Germán Rodríguez;lopezjose@example.org;3198477596;True
+cc456a5b-0253-479b-bdac-7879cefa9eb9;Arias-Naranjo;5356690551;Medios de Comunicación;Ángela Benavides;mariagonzalez@example.net;3035797863;True
+be1c7436-8811-4ee3-98c8-2f64e1b64108;Zapata Inc;4872717833;Transporte;Andrea Zoraida Bermúdez López;perezadrian@example.com;3034712871;True
+43e71e71-fd5f-4433-9db6-d251f7db4a03;Jiménez-Parada;0523302764;Alimentos y Bebidas;Aleida Vásquez Quintero;wceron@example.com;3118443861;True
+4d25befd-f73c-4068-96e7-31cb2b666430;Puentes Ltd;5962630136;Alimentos y Bebidas;Jesús Orlando Pérez Sarmiento;castanowilson@example.net;3147501111;True
+7d38cb52-b028-430a-a508-c38c88e51e60;Bedoya-Gamboa;3099974192;Energía;Jairo Franco Mejía;dianamartinez@example.net;3060688871;True
+579a23c6-0364-460d-831b-cafbd56ae914;Caicedo-Calderón;0256258896;Transporte;Orlando Antonio Pacheco Amaya;isabelospina@example.com;6086539672;True
+31a72ce8-4e7f-4ab2-a009-b2fff012bfe6;González, Rodríguez and Ramírez;0685389097;Alimentos y Bebidas;Gladys Nieto Guzmán;carolinamorales@example.org;3250676251;True
+348503f1-82ae-4e7f-a1b1-16e46cb21f3f;Romero Ltd;2650167318;Transporte;Adriana Barreto Rodríguez;;3162841772;True
+51c62a42-b34b-4193-b5f3-55d9ac4152e3;Bonilla-Cerón;3820236848;Turismo;Michael Daniel Becerra;amartinez@example.net;3202942409;True
+f63dac87-432b-423e-ba53-22c9fd45522e;Alzate Ltd;3678812786;Turismo;Diego Ortiz Díaz;carlosvega@example.org;3278844344;True
+629944da-2d84-475f-abf2-623128c253e4;González, Torres and Lozano;4024240338;Salud;María Carolina Calderón;camila84@example.net;6064694500;True
+55786f88-c0ff-4673-a485-6b8a4fb3f18c;Díaz Group;2404226931;Turismo;María Vargas Chávez;hlopez@example.org;1916601;True
+127ed529-d005-4dbe-a991-d19767427879;López-Murcia;6203036625;Alimentos y Bebidas;David Cuéllar;tpacheco@example.org;3221314519;True
+5841dcd0-8d01-4951-8de7-b94795fea8b3;Serna-Herrera;5960633991;Manufactura;;sanchezalfredo@example.net;3717524;True
+ee746117-5ed2-4e74-83ea-c5eec76470da;Castro LLC;5112747472;Salud;Nayibe Olga Morales;yenny92@example.com;3189551687;True
+da3b98b2-d37c-4545-8d2f-e5676ebc7fcd;Monsalve-Arroyo;0903802146;Transporte;Amparo Márquez Torres;wcamacho@example.com;3287112166;True
+c8077f48-2dff-463f-b821-d06dcbfaa551;Castillo Inc;7660538444;Turismo;Emilia Sánchez Rojas;ojedaivan@example.org;3167303064;True
+8f1417c5-c3dc-4032-87a5-e1bdc03711cd;Acevedo-García;1461476834;Finanzas;Marleny López Galeano;franklin42@example.org;3167782659;True
+f47c89bd-9985-4c61-a578-4246395c3ebb;Pérez, Mejía And Gutiérrez;6491111096;Salud;;barrerajose@example.org;3163378613;True
+4886c645-35eb-42b6-bb70-19ac7e7aebcb;Olaya Group;3863960962;Transporte;Campo Pérez Rentería;francylopez@example.org;3219648253;True
+137dc57f-bf96-4568-a2ad-7a2be42418d8;López Group;0920981960;Manufactura;Nathalia Acevedo Castaño;danielaburbano@example.com;3083640412;True
+243bb56b-30e6-45f9-8e60-76da9577c6f3;Rodríguez, Bustamante And Gaviria;1791124421;Turismo;Esther Gloria Velasco;ylopez@example.org;3217136657;True
+c8743807-d9d3-4da7-a885-3cb3a32efa17;Díaz Inc;2990155799;Manufactura;Ana Villamizar;ramirezmaria@example.org;3282351305;True
+8562f56e-09df-4e04-80e5-9c62a63f7a18;Vargas-Rojas;2650622923;Salud;Julián Alexander Moreno Martínez;alberto83@example.org;018004919665;True
+f24fd259-0c43-4085-b3ed-5f945a2de092;Silva, Escobar and Durán;4573144158;Educación;Sofía Aura Rojas García;amartinez@example.net;3076371539;True
+6daceb87-546a-4dc7-bbac-749433aed7d7;Durán-Cárdenas;4181563268;Salud;;martineznidia@example.com;3043629489;True
+3d2f7fb7-2ffb-41e4-89bc-22b0514d6d39;Rodríguez, Díaz and Gamboa;9743251225;Salud;Carlos José Ortega Quintero;aldemarrangel@example.org;4957907;True
+66613e0f-2a8f-4a28-a6df-990b07b7179f;González-Figueroa;9438822114;Educación;;alexander45@example.com;2545897;True
+75987028-e24f-41b7-bebc-3182208f63cb;Guerrero, Portilla and Álvarez;0985916795;Salud;Luis Rodríguez;licethsanchez@example.com;018002474140;True
+9510ebc0-9597-4848-b7e5-10e6fb8dcded;Guerra Ltd;6661449429;Medios de Comunicación;Pedro Ruiz Escobar;tatianaguerrero@example.org;3141497826;True
+b84ef1e3-efad-49e6-a395-7cd5d487bb26;Mejía Ltd;0223288377;Manufactura;;rmorales@example.com;3117662047;True
+0bfd7082-80b0-4bba-a714-15d6aa229690;Ospina Inc;9409705277;Medios de Comunicación;José Sánchez;doristoro@example.com;3212259572;True
+88276b6b-1b3c-493c-8b3a-9079591760a7;Serna-Navarro;6176792988;Finanzas;Carlos Valencia;juan61@example.org;6064231177;True
+f4742c28-659a-44ba-8e18-9c2325ac9e6b;Rosero, López and Rangel;6610941017;Manufactura;Ricardo Jonathan Salgado;sandra76@example.org;018003347743;True
+a4c8cf49-86b0-4736-8638-4ee7d6046216;Villamizar Group;8319013020;Educación;Sergio Julián Leal;rosa87@example.org;3097855982;True
+332f73bf-6f7b-45e5-80de-8a83b56e31e4;Mendoza Ltd;6191284117;Educación;María Alba Rodríguez Pinto;elkin46@example.net;3112418938;True
+d9992d74-45d0-41b3-98aa-594bc5d8a687;Sierra, Castillo and Martínez;8137214330;Educación;Ariel Andrés Ramírez;martin03@example.com;6029990516;True
+2af5f9f1-64c1-4536-8232-2682a195c5db;Romero-Hoyos;3429671114;Manufactura;Esther Aura Mosquera Ceballos;;018004384588;True
+a9ebd516-d4ff-4497-845b-ed8a6c4425ad;Oviedo, Espinosa and Arévalo;8648769984;Salud;Yeimy Correa Ángel;marcelarodriguez@example.net;3013845960;True
+a8680d45-5f78-44d7-abcf-76876ffc64d5;Castro, Ortiz and Vargas;9014954277;Manufactura;Marina Correa;yeimy83@example.com;6028914985;True
+f7419fbc-e030-43cc-8a9a-1ba77b320064;Muñoz Llc;4723229031;Energía;Andrea Mora;cmurillo@example.net;3004405809;True
+7d2a4021-c5ae-4d3d-af9c-6d9da52f818e;Romero Inc;8718133595;Turismo;Andrés Osorio Gutiérrez;valenciafabian@example.com;3257490250;True
+554222f0-0ee7-48e5-8159-b80d27c143cd;Bautista, Calderón and Navarro;8754394353;Educación;David Alexander Cardozo;mabelyepes@example.com;3115881579;True
+297996f7-4025-49fa-80da-46ff29374f29;Cardona Group;3928369294;Tecnología;Enrique González;jsalazar@example.net;3232702164;True
+e1230fa5-23d0-43fd-8610-6cdf1efe2778;Bermúdez-Ardila;9812099576;Alimentos y Bebidas;Óscar Alfonso Fernández;morenomaricela@example.org;3289864565;True
+72620887-6374-4f87-8d6b-c62874f5357b;Acevedo Inc;8306178932;Alimentos y Bebidas;Laura Ortiz;;3178243477;True
+c5438a6a-3817-40ac-840d-80e988c98804;Medina, Mosquera and Ramos;1314675361;Medios de Comunicación;Cristina Ruiz González;xrueda@example.com;3296304483;True
+8e962109-1210-49c0-8a85-cfcb049c553e;Mercado-Gómez;4403304166;Tecnología;Maribel Pardo Prieto;garciadaniel@example.net;3200892196;True
+dfcb81ff-9ffa-4735-a70b-b67d09aa34e3;Serrano LLC;5680447314;Finanzas;Eduardo Alejandro Torres Parra;lidia88@example.org;3107658173;True
+1bcfc843-17af-4879-8249-9fb00365ae12;Bastidas, Medina And Moreno;5791452118;Manufactura;Sandra Valderrama Vega;;3293074645;True
+764001af-4250-443c-b819-3c874296e9c1;Ortega-Rojas;5228705622;Manufactura;Andrés Elmer Álvarez Díaz;montoyavanessa@example.org;3292158350;True
+8e5afb4b-18ff-4584-a52c-643c8b2953b5;Rodríguez and Sons;3192227051;Alimentos y Bebidas;Patricia Arévalo;;3213866675;True
+9eee79ec-93c9-4e6c-88f8-9e1a442dd7d9;Barrera, Rincón and Ortega;8105092221;Transporte;Wilmer González Marín;alvarezesteban@example.com;3090552958;True
+dca543b0-95ea-42ab-b5ac-a460f8e73c11;Bolaños, Caicedo and Villamizar;4183437401;Turismo;Leidy Correa Ruiz;cnavarro@example.com;6062502675;True
+7868b2e0-3042-4fe4-a786-4c48b85e29f9;Barreto Llc;2782079799;Alimentos y Bebidas;Wilson Ortega Vargas;alberto76@example.com;6071381664;True
+8dd43eb8-5493-4c16-97ed-f54cacde6171;Duque LLC;0725178637;Transporte;Albeiro Toro Castellanos;giraldoyolanda@example.org;3154696815;True
+076dc897-7600-4c68-acaf-425c840ac428;Camacho-Manrique;0392355580;Energía;René Jaimes Hernández;mariasuarez@example.org;3162624467;True
+b1aa8783-4283-4d18-8504-00aa3a08a337;Arias, Ortega and Quintero;8512686120;Energía;Roger Guillermo Muñoz;;6065177509;True
+c1cf1baa-87da-4db5-b9f9-cb70d569290a;Montoya, Alzate and Vélez;0597364248;Alimentos y Bebidas;Angie Chávez;luisa63@example.org;3224479513;True
+a9ad542e-28bf-45e5-a6db-aea78864aa67;Barrera PLC;5138544577;Turismo;Ana Orozco;carlos60@example.com;018007368269;True
+ac272a04-a951-4f07-a0c4-6ff1625aee68;Luna-Cardona;2640857216;Alimentos y Bebidas;Gildardo Peña Acevedo;isabelbeltran@example.org;3205932971;True
+9f112a3a-87fe-4d6b-b92e-b7d62035b17d;Rodríguez-Agudelo;6883275327;Tecnología;Cecilia Milena Lara Rojas;rcruz@example.net;3232781952;True
+f358b473-c947-4b48-8b4d-ccedd9043ca2;Sánchez LLC;9125652373;Turismo;Luis Bedoya;cruzcamilo@example.org;3054757494;True
+6dfd4693-8358-4278-a57e-f02e690acce3;Morales-Palacios;8679252985;Salud;Eduardo Franklin Jaimes;ydiaz@example.org;6052534332;True
+b7f75dd1-e3da-44fb-b566-b47040afbd2b;Gonzáles Llc;8413128403;Salud;Paola Mery Acosta López;;3217173189;True
+3751163a-f473-4f13-aec0-7bd40ab8b4d2;Vargas LLC;7970673499;Alimentos y Bebidas;Andrés Martínez Herrera;betty41@example.com;6054156229;True
+764e7a47-a919-4059-b608-1ae30074c4f9;López, Vargas and Córdoba;4884021557;Energía;Andrea Cristina Cruz Quintero;rocio02@example.org;3266708085;True
+da68f885-05f1-4006-b57e-a261edd19cd6;Ospina Inc;8587495119;Medios de Comunicación;Yurany Sara Contreras;cordobayessica@example.net;3016477251;True
+c98a997c-50ee-4b6e-8998-33d97acbc8ab;Valderrama, León and Andrade;4064686775;Finanzas;Consuelo Suárez García;laura99@example.org;6073622723;True
+38bc1f5b-1535-4dfd-b664-eea9d60c2cf7;Arroyo, Ortiz and Alzate;3885652715;Energía;Mario Gabriel Perea;valentinasuarez@example.net;4659726;True
+a9f8774a-fdf8-4730-8d3d-9827ac42c49b;Ordóñez-Reyes;5752250139;Alimentos y Bebidas;;rafael82@example.com;6036311964;True
+4b18f363-f546-4d5c-8085-bd76eed85c3b;Carvajal, Osorio And Cabrera;2637484539;Tecnología;Carlos Montoya Carrillo;nelson90@example.net;3191191862;True
+2021bd9b-6502-4c08-87a6-13b691161460;Ramírez, Gonzáles And Perdomo;2207151169;Energía;Roberto Flórez Ortega;rosa45@example.org;3247124633;True
+2458830a-480c-4478-8c1b-822f36aa006b;Ayala Group;4906072311;Turismo;Ana Dary Martínez;claudia46@example.com;018004494116;True
+463b1165-dc14-451b-917e-d29c8744f6e2;González Inc;6880925502;Finanzas;Flor María Rodríguez;aguilarangel@example.org;3009810796;True
+508b9e1d-0472-4e95-9f32-9bfa8427b37c;Duque-Giraldo;3794577278;Energía;David Jorge Ariza;kanaya@example.com;6094642076;True
+6095a91f-1c2d-4784-b00e-467fc9dfd21e;Ortega-Narváez;4418222618;Transporte;Carlos Cortés Correa;eduardo31@example.net;6078710267;True
+5270e33a-28ec-4edc-b621-3a45bafa6d8e;Ramírez-Correa;6046558665;Educación;Jhoana Pinzón Cortés;fcastro@example.com;4581021;True
+d804f2b2-62e0-4c2b-ac04-c5d355f3ef1f;Moreno, Martínez and García;5837379274;Medios de Comunicación;Inés Palacios;diazelena@example.org;018009311325;True
+48ff6e5b-9bea-4c7d-919b-64bce879fd23;Pérez Ltd;9496843645;Educación;Mónica Teresa Bolaños Vargas;patriciamartinez@example.com;6066961701;True
+9713ca4b-9312-44e7-b2d1-eb68c82313e4;Erazo-Pérez;0511579423;Alimentos y Bebidas;Rodrigo Camilo Rodríguez Álvarez;ruthalvarez@example.net;3291928455;True
+1f22accc-a4a6-4ad2-83cd-a4be6e1ca2c2;Reyes-Álvarez;8339914038;Manufactura;Antonio Rivera;jimenezadriana@example.com;6087061572;True
+6344a670-7212-4738-82ac-e92dff30bf6f;Franco LLC;9908027112;Turismo;Luz Pérez Forero;gallegosantos@example.com;1651768;True
+c8812d52-add2-482d-bf70-8d01e4e98e50;Ortiz-Narváez;7123166007;Alimentos y Bebidas;Albeiro Peña Cardozo;hoyosjean@example.com;3173404337;True
+cecc05a7-5e6f-4b05-8564-d36a46ad9148;Zapata Inc;4364381300;Manufactura;Milena Rojas;;3256094565;True
+67ca1d52-2846-472c-a4a7-e75ee2eaa584;Ortega PLC;1131765397;Tecnología;Cecilia Cortés;arojas@example.org;9290871;True
+d507ce8c-ff6b-4648-8ecf-af7701028836;Díaz-Herrera;9737112229;Manufactura;Marina Morales;hrodriguez@example.net;3181670468;True
+b367de27-fcb0-4764-8822-8f6889249cbd;Hernández-Narváez;0508018498;Finanzas;Lucía Arrieta;marco73@example.org;3277312688;True
+40efdb78-a0de-4c3f-8424-c3640b706327;Núñez, Palacios and Parra;2398471690;Educación;Andrés García Galindo;ivangomez@example.com;3147548954;True
+02786ef4-c8c6-4cde-b730-cd51a2fbb66d;Delgado-Peña;4963924358;Alimentos y Bebidas;Alberto Miguel Guzmán;vanegasgerman@example.net;3039527536;True
+516ab8f6-4b5f-4816-a356-4b1a8b41bbda;González, Mendoza And Álvarez;2215001418;Educación;Carlos López;qramirez@example.net;6074015944;True
+0e3225c9-8601-4ce2-97fa-d53dca1bd4d0;Pérez, Pérez and Torres;1034699673;Energía;;wgaitan@example.com;6066843768;True
+029f7975-7f7e-4d05-9f53-69427f7f2324;Sierra PLC;6793521962;Finanzas;Alberto Álvarez Parra;alejandroburbano@example.com;3209317069;True
+930ddaeb-07f3-43d5-9f23-7fb67afbb975;Andrade, Hernández and Gómez;1954196664;Transporte;José Mauricio Espinosa;nohorahenao@example.org;3292463203;True
+799e4bce-246b-42d3-a22f-2588b0952f1e;Muñoz-Castillo;7537260321;Alimentos y Bebidas;Eduardo Romero;bmurcia@example.org;3158870715;True
+16f289f3-4a44-4c90-a3c1-e28436543a07;Ramírez-Caballero;2012840083;Educación;José Diego Vera;uromero@example.com;3108917768;True
+8cacadd3-5cd7-4463-b95d-dc070f588ff2;García-Pérez;7150666267;Turismo;Claudia Arias;leidy76@example.net;3066343925;True
+8bd2c959-87c0-4120-81ff-f3f02ca96452;Gutiérrez, Medina and Quintero;2775844663;Transporte;Hernán Rojas;jsanchez@example.org;3091217;True
+b14562b5-2ac0-4666-bca1-b6b5773e1fd1;Arias, Rodríguez And Ramos;8332584868;Medios de Comunicación;Marina Cielo Meneses Cárdenas;andres70@example.com;3106917679;True
+6e160923-ceb6-442f-a52b-c202696cdf4c;López-Montenegro;4881121031;Salud;;gquintero@example.net;3281794151;True
+33d549e7-20b3-4488-b653-fe04e805e502;Díaz-Arévalo;8409112252;Tecnología;Daniela Lucila Barrera Gómez;balzate@example.org;3263239791;True
+d40783e4-f1be-4606-b0b5-3b90c72d12be;Zapata-Orjuela;5190534864;Salud;Yolima Martínez;enrique24@example.com;6028456185;True
+460ea7ef-7bae-4da8-9207-f156f9f6ba16;Daza-Parra;0452128991;Finanzas;Luis Vladimir Solano;alexis29@example.org;2304488;True
+4e81fb78-5dfe-472c-9dbd-f142d6e47b9d;Peña, Escobar and Ortiz;9164970169;Medios de Comunicación;Katherine Johanna Escobar Aguilar;paradatatiana@example.net;6045330162;True
+d187a909-bc3d-43cf-b878-d7ab95813373;Córdoba Ltd;3106153722;Energía;Katerine Cecilia Peña;raquel32@example.org;3153377460;True
+c10ea913-f732-4e0e-961b-ff6dbdd3e05a;Pérez-Torres;2037638821;Manufactura;Humberto Guzmán;ortizalexander@example.com;3101913443;True
+892851cc-15a2-489e-99b8-4add9d2d3227;Montenegro, Ordóñez and Córdoba;8278020586;Transporte;José Juan González;oscar64@example.net;3093699951;True
+ee5e82a5-14b0-4a48-9643-e66bb9403a8a;Torres Ltd;8187692082;Manufactura;Pilar Paola Martínez Andrade;morenoluis@example.com;3281445822;True
+2e38fa00-34e6-4102-b6a1-0786037a43d6;Pacheco Group;1785090255;Salud;Fredy Rosero Mora;alfonso42@example.org;018002998747;True
+ff397617-b6a6-4399-8d2e-b68bd37d1ba8;Chávez, García And Díaz;4890567086;Medios de Comunicación;José Francisco Rodríguez Muñoz;myriamhenao@example.org;3184826691;True
+b76d417f-0cf9-4d5f-9dc7-c75571d3b0e6;Cantillo, Zuluaga and Silva;2104016481;Finanzas;Carmen Ardila;luisortega@example.org;3236381643;True
+6e2d20f0-0399-4b07-a990-785e372fa45c;Sandoval and Sons;6942894642;Medios de Comunicación;Paola Guerrero;aurabonilla@example.net;3231441706;True
+6ce16a50-8f1d-4213-9538-ddd869a6359c;Garcés-Barrera;2554026355;Salud;Milena Olaya Vallejo;camachoheidy@example.com;3244898803;True
+749a22fa-2812-40cb-843d-14cfc3353c2e;González, Moreno and Benavides;8245279050;Medios de Comunicación;Santiago Martínez;daniela33@example.com;3084951632;True
+dd7435cd-02b8-45d2-a975-e6ff83be766a;Restrepo Plc;6880023009;Educación;Claudia Adriana Caicedo;vargasleonor@example.com;3244916093;True
+589c92d0-d24e-4816-8c81-98193240a2bb;Morales-Mercado;2014911894;Manufactura;Alba Martha Medina;bherrera@example.net;6093632239;True
+24caf98d-ccb3-48cc-b170-5ac345823ef7;Rico and Sons;0835669106;Educación;Nubia García Ballesteros;dianadiaz@example.org;3055068826;True
+47ebc59c-8f38-4ee1-9fe5-e1989432753c;González, Pineda And Reyes;8293844013;Tecnología;Marlon Rodríguez;vpatino@example.com;3078826033;True
+c20e0029-bfc5-4716-a7c0-e898ec64269f;Trujillo-Rodríguez;8726176072;Tecnología;Lucía Jhoana Vanegas Guzmán;camilavergara@example.com;3082804056;True
+c9926554-9f0b-460d-9dd5-c32fe33ce36d;González, Sánchez And Vélez;9650826958;Manufactura;;wcordoba@example.com;6034308761;True
+bc9f771d-29c8-4309-a6ab-ea6f4a0bf905;González Group;8311395001;Turismo;Cristian Ávila Castro;fernando15@example.org;3262839762;True
+0c15ec13-1428-45f9-a41f-885913e58e18;López, Agudelo And Rodríguez;1363852778;Turismo;Eduardo Juan Cardona;viviana90@example.net;3095026480;True
+814f7495-d131-4117-ac3a-7bfb0b604d7d;Mejía Llc;0373416781;Alimentos y Bebidas;Maira Mena Sierra;albeirogarcia@example.org;5798213;True
+7b1bc6f7-b8da-4554-be0a-cbd548d46ff2;Granados, Guerrero and Córdoba;5797363831;Medios de Comunicación;Luisa Orjuela Parra;angela70@example.com;018006617706;True
+9a7d5a70-727d-42b8-9179-bfa0b8fbf287;Hernández, Jaramillo and Tamayo;9089843699;Alimentos y Bebidas;Stiven Salas;carmenprada@example.com;6095938694;True
+cea4d48f-6d5b-4e36-8f28-61290ef20418;Díaz-Vargas;2894633891;Alimentos y Bebidas;Diego Fernando Duque;rosa57@example.org;3162926933;True
+0cdec238-64b9-4bbd-96b9-7b00d3c268c0;García, Roa and Caro;9720385934;Medios de Comunicación;María Morales;ualvarez@example.com;3215531325;True
+e72dd115-a380-4c3b-9140-58f7bf1f81f1;Rivas, Figueroa and Acosta;8136750094;Salud;Doris Franco González;gomezsonia@example.com;3198198780;True
+140b93af-26aa-459a-a7fe-1578c3ac37bc;Beltrán, Becerra and Sánchez;3677462025;Salud;Matilde Gutiérrez Quiroga;silvaricardo@example.org;018001231239;True
+d236da0f-cae0-4f9f-b97c-b9093ecdc734;Cuéllar Ltd;0491060183;Turismo;Fernando Pérez Becerra;;3268172257;True
